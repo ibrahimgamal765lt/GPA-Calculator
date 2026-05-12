@@ -1,7 +1,13 @@
 # GPA-Calculator
-Since you're preparing this for your portfolio and LinkedIn, your README.md should look professional and explain not just what the code does, but how to use it.
+## ⬇️ Run:
 
-Here is a structured template you can copy and paste into your README.md file. I’ve written it to highlight your skills in C++ and logic handling.
+
+## ⬇️ Download:
+Windows users can download the pre-compiled executable from the **[Latest Release]((https://github.com/ibrahimgamal765lt/GPA-Calculator/releases/tag/v1.0.0))**. 
+
+1. Download `GPA Calculator.exe`.
+2. Run the file (Windows might show a "Protected your PC" warning—click "More Info" then "Run anyway").
+https://github.com/ibrahimgamal765lt/GPA-Calculator/releases/tag/v1.0.0
 
 GPA Calculator (C++)
 A lightweight, console-based GPA calculator built in C++. This tool allows users to input multiple subjects, their respective credit hours, and letter grades to calculate a weighted Grade Point Average (GPA).
