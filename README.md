@@ -1,6 +1,6 @@
 # GPA-Calculator
 ## ⬇️ Run:
-Run Directly From Browser **[Run Now](https://www.programiz.com/online-compiler/1lKJq6pqvXRFz)**. 
+Run Directly From Your Browser **[Run Now](https://www.programiz.com/online-compiler/1lKJq6pqvXRFz)**. 
 
 
 ## ⬇️ Download:
