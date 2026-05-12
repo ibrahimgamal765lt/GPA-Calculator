@@ -1,10 +1,10 @@
 # GPA-Calculator
 ## ⬇️ Run:
-Run Directly From Browser **[Latest Release]((https://www.programiz.com/online-compiler/1lKJq6pqvXRFz))**. 
+Run Directly From Browser **[Latest Release](https://www.programiz.com/online-compiler/1lKJq6pqvXRFz)**. 
 
 
 ## ⬇️ Download:
-Windows users can download the pre-compiled executable from the **[Latest Release]((https://github.com/ibrahimgamal765lt/GPA-Calculator/releases/tag/v1.0.0))**. 
+Windows users can download the pre-compiled executable from the **[Latest Release](https://github.com/ibrahimgamal765lt/GPA-Calculator/releases/tag/v1.0.0)**. 
 
 1. Download `GPA Calculator.exe`.
 2. Run the file (Windows might show a "Protected your PC" warning—click "More Info" then "Run anyway").
